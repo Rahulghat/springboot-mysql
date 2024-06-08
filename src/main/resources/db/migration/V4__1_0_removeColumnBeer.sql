@@ -1,0 +1,1 @@
+ALTER TABLE Beer drop column origin ;

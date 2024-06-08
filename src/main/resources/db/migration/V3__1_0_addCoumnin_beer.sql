@@ -1,0 +1,1 @@
+ALTER TABLE Beer ADD origin varchar(100);
